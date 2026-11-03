@@ -1,0 +1,17 @@
+Platform: Google Business Profile (Buffer channel ID 6ac3e7496a5c39ccb622b324), type whats_new
+Planned: Tue Nov 10 2026, 9:00 am Toronto (2026-11-10 14:00 UTC, EST)
+Image: gbp_16b.jpg (1280x720)
+Button: Learn more -> https://youtu.be/tRRKqxL8YRg
+Publish only after the P16 long video is live (Wed Nov 4 2026, 7 pm).
+Topic: Mortgage stress test and your buying budget
+Alt text: Mortgage stress test: how the new rate changes your buying budget
+Not scheduled yet: the Google channel already has 10 scheduled posts (the Buffer plan limit).
+
+Post text (copy exactly):
+‏خرید خونه در نیومارکت، آرورا یا نورث یورک با نرخ جدید: سقف خریدتون کم می‌شه؟
+
+‏بانک‌ها برای وام شما تست استرس می‌گیرن: شما رو با بیشترِ «نرخ قرارداد ⁦+⁩ ۲٪» یا ۵٫۲۵٪ می‌سنجن. وقتی نرخ‌ها بالا می‌رن، نرخ تست هم بالا می‌ره و سقف وامی که می‌گیرید پایین میاد. اگه دنبال خونه‌اید، پیش‌تأیید (پری‌اپروول) رو زودتر بگیرید و بعد از هر تغییر نرخ، بودجه‌تون رو دوباره حساب کنید. تصمیم بعدی بانک مرکزی ۹ دسامبره.
+
+‏برای اینکه سقف خرید و قسط واقعی خودتون رو با هم حساب کنیم، مشاوره‌ی رایگان ۳۰ دقیقه‌ای رزرو کنید.
+
+Buying in Newmarket, Aurora or North York? Check how the mortgage stress test changes your budget. Explained in Persian.
